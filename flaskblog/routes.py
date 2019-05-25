@@ -20,6 +20,12 @@ posts= [
         'title':'Blog posting 2',
         'content': 'end of year',
         'date_posted':'Dec 2018'
+    },
+      {
+        'author':'Conard Conardson',
+        'title':'Hackathon ',
+        'content': 'Welcome to hackathon ',
+        'date_posted':'Dec 2018'
     }
 
 ]
